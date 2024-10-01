@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tran Quoc Cuong</h1>
-<h3 align="center">I am currently a student majoring in Information Security at the Posts and Telecommunications Institute of Technology, and I have a passion for this field ❤️</h3>
+<h3 align="left">I am currently a student majoring in Information Security at the Posts and Telecommunications Institute of Technology, and I have a passion for this field ❤️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-tran05&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-tran05" /> </p>
 
@@ -13,6 +13,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-tran05&show_icons=true&locale=en&layout=compact" alt="lucas-tran05" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-tran05&show_icons=true&locale=en" alt="lucas-tran05" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucas-tran05&show_icons=true&locale=en" alt="lucas-tran05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-tran05&" alt="lucas-tran05" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-tran05&" alt="lucas-tran05" /></p>
