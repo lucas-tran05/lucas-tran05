@@ -39,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-tran05&show_icons=true&locale=en" alt="lucas-tran05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-tran05&" alt="lucas-tran05" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-tran05&" alt="lucas-tran05" style="width: 100vw;" /></p>
