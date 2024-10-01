@@ -18,6 +18,7 @@
 
 - 📄 Know about my experiences [https://lucas-tran05.github.io/my_profile/pages/resume.html](https://lucas-tran05.github.io/my_profile/pages/resume.html)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-tran05&" alt="lucas-tran05" style="width: 100vw;" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/tranquoccuong2k5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tranquoccuong2k5" height="30" width="40" /></a>
@@ -39,4 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-tran05&show_icons=true&locale=en" alt="lucas-tran05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-tran05&" alt="lucas-tran05" style="width: 100vw;" /></p>
+
